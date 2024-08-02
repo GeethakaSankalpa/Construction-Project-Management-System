@@ -12,7 +12,11 @@
   <h2>Documentation and Test Plans</h2>
   <p>
      I've included thorough documentation about the structural design of the system.To ensure reliability and performance, I've developed some test plans. These cover a variety of use cases and scenarios, helping to guarantee that the Construction Project Management System operates smoothly and accurately.
-    
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
   <h2>Getting Started</h2>
   <p>
     🚀 Dive into the Construction Project Management System! Explore, tweak, and make it even better. Your contributions and feedback are always appreciated. Thanks for checking us out! 😊
